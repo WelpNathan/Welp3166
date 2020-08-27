@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{273A6A5A-EA35-486D-84E0-1FEFDB3BE996}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{76FA628E-59E3-43A1-A7BA-A137D9D6B21D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelpNathan.Welp3166", "src\WelpNathan.Welp3166\WelpNathan.Welp3166.csproj", "{0B108746-8237-4472-A8F7-12C7C3C321C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelpNathan.Welp3166Tests", "tests\WelpNathan.Welp3166Tests\WelpNathan.Welp3166Tests.csproj", "{3F43ABC2-B421-42E7-A65A-39CB8AE3793D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0B108746-8237-4472-A8F7-12C7C3C321C2} = {273A6A5A-EA35-486D-84E0-1FEFDB3BE996}
+		{3F43ABC2-B421-42E7-A65A-39CB8AE3793D} = {76FA628E-59E3-43A1-A7BA-A137D9D6B21D}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B108746-8237-4472-A8F7-12C7C3C321C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B108746-8237-4472-A8F7-12C7C3C321C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B108746-8237-4472-A8F7-12C7C3C321C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B108746-8237-4472-A8F7-12C7C3C321C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F43ABC2-B421-42E7-A65A-39CB8AE3793D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F43ABC2-B421-42E7-A65A-39CB8AE3793D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F43ABC2-B421-42E7-A65A-39CB8AE3793D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F43ABC2-B421-42E7-A65A-39CB8AE3793D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
