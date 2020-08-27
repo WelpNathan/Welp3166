@@ -10,7 +10,7 @@
 
 > **This library is updated once per week (every Monday) depending on if there are any official changes from the ISO-3166 standard. These updates will be applied on the Monday.**
 >
-> The official ISO-3166 website can be found [here](https://www.iso.org/obp/ui/#search) where all of the data originally came from.
+> The official ISO-3166 website can be found [here](https://www.iso.org/obp/ui/#search) where all of the data originally came from. You can purchase the official ISO-3166 country codes collection from their [website](https://www.iso.org/publication/PUB500001.html) which notifies you of any updates of their data and comes in a variety of formats.
 
 ## Introduction
 
